@@ -1,6 +1,4 @@
-#!/usr/bin/python3
-# mau open source ?, 50k
-
-import Run
-Run.folder()
+from os import system
+system('git pull'); system('clear')
+exit('\r [*] Script telah kadaluarsa...')
 
