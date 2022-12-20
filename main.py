@@ -1,4 +1,5 @@
+import run
 from os import system
-system('git pull'); system('clear')
-exit('\r [*] Script telah di update ke versi premium..')
+system('git pull'); system('clear') ; run.true()
+
 
