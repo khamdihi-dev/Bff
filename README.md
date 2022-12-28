@@ -8,4 +8,3 @@
     $ cd Bff
     $ python main.py
 
-    * minimal di follow/kasih bintang🙄
