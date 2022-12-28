@@ -1,4 +1,5 @@
     $ pkg update && upgrade
+    $ pkg install play-audio
     $ pkg install python
     $ pkg install git
     $ pip install rich
