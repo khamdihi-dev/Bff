@@ -2,7 +2,7 @@ from utama import Bff
 
 import os
 try:
-     import bs
+     import bs4
 except (ModuleNotFoundError,ImportError):
      os.system('pip install bs4')
 try:
